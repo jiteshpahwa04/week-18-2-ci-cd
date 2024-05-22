@@ -11,8 +11,8 @@
 
   },
   "devDependencies": {
-    "@jiteshpahwa/eslint-config": "*",
-    "@jiteshpahwa/typescript-config": "*",
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
     "prettier": "^3.2.5",
     "turbo": "latest"
   },

@@ -9,8 +9,8 @@
     "lint": "eslint . --max-warnings 0"
   },
   "dependencies": {
-    "@jiteshpahwa/store": "*",
-    "@jiteshpahwa/ui": "*",
+    "@repo/store": "*",
+    "@repo/ui": "*",
     "@types/bcrypt": "^5.0.2",
     "bcrypt": "^5.1.1",
     "next": "^14.1.1",
@@ -20,8 +20,8 @@
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^14.1.1",
-    "@jiteshpahwa/eslint-config": "*",
-    "@jiteshpahwa/typescript-config": "*",
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
     "@types/eslint": "^8.56.5",
     "@types/node": "^20.11.24",
     "@types/react": "^18.2.61",

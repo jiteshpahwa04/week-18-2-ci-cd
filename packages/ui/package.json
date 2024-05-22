@@ -1,5 +1,5 @@
 {
-  "name": "@jiteshpahwa/ui",
+  "name": "@repo/ui",
   "version": "0.0.0",
   "private": true,
   "exports": {
@@ -16,8 +16,8 @@
     "generate:component": "turbo gen react-component"
   },
   "devDependencies": {
-    "@jiteshpahwa/eslint-config": "*",
-    "@jiteshpahwa/typescript-config": "*",
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
     "@turbo/gen": "^1.12.4",
     "@types/node": "^20.11.24",
     "@types/eslint": "^8.56.5",
