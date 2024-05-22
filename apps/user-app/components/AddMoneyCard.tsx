@@ -1,10 +1,10 @@
 "use client"
-import { Button } from "@repo/ui/button";
-import { Card } from "@repo/ui/card";
-import { Center } from "@repo/ui/center";
-import { Select } from "@repo/ui/select";
+import { Button } from "@jiteshpahwa/ui/button";
+import { Card } from "@jiteshpahwa/ui/card";
+import { Center } from "@jiteshpahwa/ui/center";
+import { Select } from "@jiteshpahwa/ui/select";
 import { useState } from "react";
-import { TextInput } from "@repo/ui/textinput";
+import { TextInput } from "@jiteshpahwa/ui/textinput";
 import { createOnRampTransaction } from "../app/lib/actions/createOnRamptxn";
 
 const SUPPORTED_BANKS = [{
